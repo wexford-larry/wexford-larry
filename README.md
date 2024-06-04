@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game development, Level design and Godot**
 
-- 💬 Ask me about **C++, GDScript, Godot, & Game Development**
+- 💬 Ask me about **C#, GDScript, Godot, & Game Development**
 
 - 📫 How to reach me **wexforddevgamez@gmail.com**
 
